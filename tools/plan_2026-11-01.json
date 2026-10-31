@@ -1,0 +1,248 @@
+{
+ "week_of": "2026-11-01",
+ "flyer_dates": "Oct 29 – Nov 4",
+ "postal_code": "N2L3G1",
+ "shop_at": {
+  "name": "No Frills (Paul & Mallory's)",
+  "address": "24 Forwell Creek Rd, Waterloo"
+ },
+ "dinners": [
+  {
+   "day": "Sun Nov 1",
+   "name": "Honey-garlic roasted chicken thighs & sweet potatoes",
+   "time": "35 min",
+   "site": "Laughing Spatula",
+   "url": "https://laughingspatula.com/honey-garlic-roasted-chicken-thighs-with-sweet-potatoes/",
+   "note": "GF recipe (check your Dijon label). Add broccoli to the pan for the last 15 min."
+  },
+  {
+   "day": "Mon Nov 2",
+   "name": "Ground beef taco bowls",
+   "time": "30 min",
+   "site": "Eat With Clarity",
+   "url": "https://eatwithclarity.com/ground-beef-taco-bowls/",
+   "note": "Use homemade taco spice (cumin, chili powder, paprika, oregano) instead of a packet."
+  },
+  {
+   "day": "Tue Nov 3",
+   "name": "Lemon-garlic pan-seared salmon",
+   "time": "20 min",
+   "site": "I Wash You Dry",
+   "url": "https://iwashyoudry.com/lemon-garlic-pan-seared-salmon/",
+   "note": "Serve with roasted mini potatoes (half the bag) and garlicky spinach."
+  },
+  {
+   "day": "Wed Nov 4",
+   "name": "Ginger shrimp stir-fry",
+   "time": "45 min",
+   "site": "Gluten Free & More",
+   "url": "https://glutenfreeandmore.com/gluten-free-ponzu-ginger-shrimp-stir-fry-recipe/",
+   "note": "Swap bok choy/edamame for broccoli, mushrooms, peppers, carrots; GF tamari + lime if ponzu isn't labelled GF."
+  },
+  {
+   "day": "Thu Nov 5",
+   "name": "Coconut chicken curry with cauliflower",
+   "time": "40 min",
+   "site": "Easy and Delish",
+   "url": "https://easyanddelish.com/coconut-chicken-curry",
+   "note": "Makes 10 servings, so use ~1/4 with chicken breast + 1 can coconut milk; add spinach. Thaw the pork tonight."
+  },
+  {
+   "day": "Fri Nov 6",
+   "name": "Herb garlic pork tenderloin with carrots & potatoes",
+   "time": "30 min",
+   "site": "Cup of Yum",
+   "url": "https://cupofyum.com/recipes/herb-garlic-pork-tenderloin",
+   "note": "Use the rest of the mini potatoes; broccoli instead of Brussels sprouts."
+  }
+ ],
+ "groceries": [
+  {
+   "section": "Proteins",
+   "name": "Boneless skinless chicken thighs (PC Free From)",
+   "qty": "~1.5 lb",
+   "price": "$6.99/lb",
+   "est": 10.48
+  },
+  {
+   "section": "Proteins",
+   "name": "Regular ground beef",
+   "qty": "1 lb",
+   "price": "$4.88/lb",
+   "est": 4.88,
+   "match": {
+    "flyer_id": 8210526,
+    "item_id": 1050731319
+   }
+  },
+  {
+   "section": "Proteins",
+   "name": "Atlantic salmon fillet",
+   "qty": "~0.75 lb",
+   "price": "$10.99/lb",
+   "est": 8.24
+  },
+  {
+   "section": "Proteins",
+   "name": "Marina Del Rey raw shrimp, 300 g",
+   "qty": "1 bag",
+   "price": "$8.00",
+   "est": 8.0
+  },
+  {
+   "section": "Proteins",
+   "name": "Boneless skinless chicken breasts",
+   "qty": "~1.25 lb",
+   "price": "$5.99/lb",
+   "est": 7.49,
+   "match": {
+    "flyer_id": 8210526,
+    "item_id": 1050731325
+   },
+   "note": "Ad is Canadian Butcher brand; ask, may not match"
+  },
+  {
+   "section": "Proteins",
+   "name": "Pork tenderloin (frozen cryovac)",
+   "qty": "~1.2 lb",
+   "price": "$2.99/lb",
+   "est": 3.59,
+   "match": {
+    "flyer_id": 8206916,
+    "item_id": 1050204233
+   }
+  },
+  {
+   "section": "Produce",
+   "name": "Sweet potatoes",
+   "qty": "2 (~1.5 lb)",
+   "price": "$1.49/lb",
+   "est": 2.23
+  },
+  {
+   "section": "Produce",
+   "name": "Broccoli crowns",
+   "qty": "2",
+   "price": "$2.49",
+   "est": 4.98
+  },
+  {
+   "section": "Produce",
+   "name": "Sweet peppers",
+   "qty": "1 pkg",
+   "price": "$2.99",
+   "est": 2.99
+  },
+  {
+   "section": "Produce",
+   "name": "Avocados",
+   "qty": "pkg of 5",
+   "price": "$3.99",
+   "est": 3.99
+  },
+  {
+   "section": "Produce",
+   "name": "Cilantro",
+   "qty": "1 bunch",
+   "price": "$1.29",
+   "est": 1.29
+  },
+  {
+   "section": "Produce",
+   "name": "Limes, 1 lb bag",
+   "qty": "1",
+   "price": "$3.00",
+   "est": 3.0,
+   "match": {
+    "flyer_id": 8210062,
+    "item_id": 1050654196
+   }
+  },
+  {
+   "section": "Produce",
+   "name": "Lemons, 2 lb bag",
+   "qty": "1",
+   "price": "$2.00",
+   "est": 2.0,
+   "match": {
+    "flyer_id": 8210062,
+    "item_id": 1050652625
+   }
+  },
+  {
+   "section": "Produce",
+   "name": "PC Little Gems mini potatoes, 680 g",
+   "qty": "1 bag",
+   "price": "$3.99",
+   "est": 3.99
+  },
+  {
+   "section": "Produce",
+   "name": "Carrots, 3 lb",
+   "qty": "1 bag",
+   "price": "$1.49",
+   "est": 1.49
+  },
+  {
+   "section": "Produce",
+   "name": "Yellow onions, 3 lb",
+   "qty": "1 bag",
+   "price": "$1.49",
+   "est": 1.49
+  },
+  {
+   "section": "Produce",
+   "name": "PC whole white mushrooms",
+   "qty": "1 pkg",
+   "price": "$1.49",
+   "est": 1.49
+  },
+  {
+   "section": "Produce",
+   "name": "Spinach bunch",
+   "qty": "2",
+   "price": "$1.99 ea",
+   "est": 3.98,
+   "match": {
+    "flyer_id": 8210062,
+    "item_id": 1050656984
+   }
+  },
+  {
+   "section": "Produce",
+   "name": "Cauliflower",
+   "qty": "1",
+   "price": "$3.00",
+   "est": 3.0,
+   "match": {
+    "flyer_id": 8210062,
+    "item_id": 1050654057
+   }
+  },
+  {
+   "section": "Pantry",
+   "name": "Coconut milk, 400 mL",
+   "qty": "1 can",
+   "price": "$2.48",
+   "est": 2.48,
+   "note": "Kim Phat brand only",
+   "match": {
+    "flyer_id": 8210526,
+    "item_id": 1050705312
+   }
+  }
+ ],
+ "pantry": [
+  "Rice",
+  "GF tamari",
+  "Honey",
+  "Garlic",
+  "Cornstarch",
+  "Curry powder (check GF)",
+  "Cumin, chili powder, paprika, oregano",
+  "Italian seasoning",
+  "Dijon mustard",
+  "Fresh ginger",
+  "Olive oil"
+ ]
+}
