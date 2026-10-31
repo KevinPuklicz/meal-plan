@@ -1,0 +1,37 @@
+# Recipe sites the weekly task may use (one domain per line; lines starting with # are ignored).
+# Edit this file on GitHub to add or remove sites. Each new site may ask for permission once.
+
+# Fully gluten-free sites
+downshiftology.com
+eatwithclarity.com
+meaningfuleats.com
+iowagirleats.com
+lexiscleankitchen.com
+glutenfreeandmore.com
+therealfooddietitians.com
+
+# Lots of GF / easily adapted recipes
+minimalistbaker.com
+recipetineats.com
+budgetbytes.com
+wellplated.com
+iwashyoudry.com
+cupofyum.com
+skinnytaste.com
+gimmesomeoven.com
+pinchofyum.com
+damndelicious.net
+fitfoodiefinds.com
+jessicagavin.com
+onceuponachef.com
+feelgoodfoodie.net
+therecipecritic.com
+spendwithpennies.com
+laughingspatula.com
+easyanddelish.com
+cookieandkate.com
+simplyrecipes.com
+seriouseats.com
+bbcgoodfood.com
+thekitchn.com
+allrecipes.com
