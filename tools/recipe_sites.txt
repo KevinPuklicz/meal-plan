@@ -1,7 +1,7 @@
 # Recipe sites the weekly task may use (one domain per line; lines starting with # are ignored).
 # Edit this file on GitHub to add or remove sites. Each new site may ask for permission once.
 
-# Fully gluten-free sites
+# Gluten-free specialist sites
 downshiftology.com
 eatwithclarity.com
 meaningfuleats.com
@@ -10,7 +10,7 @@ lexiscleankitchen.com
 glutenfreeandmore.com
 therealfooddietitians.com
 
-# Lots of GF / easily adapted recipes
+# General recipe sites (recipes get a GF swap where needed)
 minimalistbaker.com
 recipetineats.com
 budgetbytes.com

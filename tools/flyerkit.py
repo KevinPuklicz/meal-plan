@@ -26,9 +26,9 @@ from PIL import Image, ImageDraw, ImageFont
 BACKFLIPP = "https://backflipp.wishabi.com/flipp"
 DAM = "https://dam.flippenterprise.net/api/flipp"
 IMG_HOST = "https://f.wishabi.net/"
+# No Frills (where they shop) + the stores they price-match against.
 DEFAULT_MERCHANTS = [
-    "No Frills", "Farm Boy", "Food Basics", "FreshCo", "Loblaws", "Metro",
-    "Real Canadian Superstore", "Sobeys", "Walmart",
+    "No Frills", "Farm Boy", "Food Basics", "FreshCo", "Zehrs", "Sobeys", "Walmart",
 ]
 UA = {"User-Agent": "Mozilla/5.0 (meal-planner; personal use)"}
 _session = requests.Session()
