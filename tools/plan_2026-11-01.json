@@ -21,7 +21,7 @@
    "time": "30 min",
    "site": "Eat With Clarity",
    "url": "https://eatwithclarity.com/ground-beef-taco-bowls/",
-   "note": "Use homemade taco spice (cumin, chili powder, paprika, oregano) instead of a packet."
+   "note": "Use homemade taco spice (cumin, chili powder, paprika, oregano) instead of the packet the recipe names."
   },
   {
    "day": "Tue Nov 3",
@@ -33,11 +33,11 @@
   },
   {
    "day": "Wed Nov 4",
-   "name": "Ginger shrimp stir-fry",
-   "time": "45 min",
-   "site": "Gluten Free & More",
-   "url": "https://glutenfreeandmore.com/gluten-free-ponzu-ginger-shrimp-stir-fry-recipe/",
-   "note": "Swap bok choy/edamame for broccoli, mushrooms, peppers, carrots; GF tamari + lime if ponzu isn't labelled GF."
+   "name": "Shrimp & broccoli stir-fry",
+   "time": "30 min",
+   "site": "Well Plated",
+   "url": "https://www.wellplated.com/shrimp-and-broccoli-stir-fry/",
+   "note": "Use GF tamari instead of soy sauce (the recipe's own GF swap). Uses one 340 g bag of shrimp plus 1 broccoli crown; serve over rice."
   },
   {
    "day": "Thu Nov 5",
@@ -45,15 +45,15 @@
    "time": "40 min",
    "site": "Easy and Delish",
    "url": "https://easyanddelish.com/coconut-chicken-curry",
-   "note": "Makes 10 servings, so use ~1/4 with chicken breast + 1 can coconut milk; add spinach. Thaw the pork tonight."
+   "note": "Makes 10 servings, so use ~1/4 with chicken breast + 1 can coconut milk; use a GF-labelled broth and check the curry powder. Add spinach. Thaw the pork tonight."
   },
   {
    "day": "Fri Nov 6",
    "name": "Herb garlic pork tenderloin with carrots & potatoes",
    "time": "30 min",
    "site": "Cup of Yum",
-   "url": "https://cupofyum.com/recipes/herb-garlic-pork-tenderloin",
-   "note": "Use the rest of the mini potatoes; broccoli instead of Brussels sprouts."
+   "url": "https://cupofyum.com/recipes/herb-garlic-pork-tenderloin-60080",
+   "note": "Use the rest of the mini potatoes; broccoli instead of Brussels sprouts. Check the Italian seasoning label."
   }
  ],
  "groceries": [
@@ -84,22 +84,26 @@
   },
   {
    "section": "Proteins",
-   "name": "Marina Del Rey raw shrimp, 300 g",
+   "name": "Raw shrimp, 340 g bag",
    "qty": "1 bag",
-   "price": "$8.00",
-   "est": 8.0
+   "price": "$4.99",
+   "est": 4.99,
+   "note": "Ad is Farm Boy™ brand; match depends on No Frills carrying it. Otherwise Marina Del Rey 300 g, $8.00",
+   "match": {
+    "flyer_id": 8207891,
+    "item_id": 1050295954
+   }
   },
   {
    "section": "Proteins",
    "name": "Boneless skinless chicken breasts",
    "qty": "~1.25 lb",
-   "price": "$5.99/lb",
-   "est": 7.49,
+   "price": "$6.00/lb",
+   "est": 7.5,
    "match": {
-    "flyer_id": 8210526,
-    "item_id": 1050731325
-   },
-   "note": "Ad is Canadian Butcher brand; ask, may not match"
+    "flyer_id": 8210062,
+    "item_id": 1050654495
+   }
   },
   {
    "section": "Proteins",
@@ -122,9 +126,9 @@
   {
    "section": "Produce",
    "name": "Broccoli crowns",
-   "qty": "2",
+   "qty": "3",
    "price": "$2.49",
-   "est": 4.98
+   "est": 7.47
   },
   {
    "section": "Produce",
@@ -135,10 +139,14 @@
   },
   {
    "section": "Produce",
-   "name": "Avocados",
-   "qty": "pkg of 5",
-   "price": "$3.99",
-   "est": 3.99
+   "name": "Avocados, pkg of 5",
+   "qty": "1",
+   "price": "$2.00",
+   "est": 2.0,
+   "match": {
+    "flyer_id": 8210062,
+    "item_id": 1050652880
+   }
   },
   {
    "section": "Produce",
@@ -192,13 +200,6 @@
   },
   {
    "section": "Produce",
-   "name": "PC whole white mushrooms",
-   "qty": "1 pkg",
-   "price": "$1.49",
-   "est": 1.49
-  },
-  {
-   "section": "Produce",
    "name": "Spinach bunch",
    "qty": "2",
    "price": "$1.99 ea",
@@ -225,7 +226,7 @@
    "qty": "1 can",
    "price": "$2.48",
    "est": 2.48,
-   "note": "Kim Phat brand only",
+   "note": "Ad is 'selected' brands; match only on the advertised brand",
    "match": {
     "flyer_id": 8210526,
     "item_id": 1050705312
@@ -237,12 +238,16 @@
   "GF tamari",
   "Honey",
   "Garlic",
-  "Cornstarch",
-  "Curry powder (check GF)",
-  "Cumin, chili powder, paprika, oregano",
-  "Italian seasoning",
-  "Dijon mustard",
   "Fresh ginger",
+  "Cornstarch",
+  "Rice vinegar",
+  "Toasted sesame oil",
+  "GF chicken broth",
+  "Curry powder (check GF)",
+  "Tomato paste",
+  "Cumin, chili powder, paprika, oregano",
+  "Italian seasoning (check GF)",
+  "Dijon mustard (check GF)",
   "Olive oil"
  ]
 }
