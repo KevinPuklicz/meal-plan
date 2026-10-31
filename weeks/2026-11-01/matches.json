@@ -1,0 +1,72 @@
+[
+ {
+  "name": "Regular ground beef",
+  "price": "$4.88/lb",
+  "store": "Sobeys",
+  "address": "640 Parkside Drive, Waterloo",
+  "proof": "proofs/regular-ground-beef.jpg"
+ },
+ {
+  "name": "Raw shrimp, 340 g bag",
+  "price": "$4.99",
+  "store": "Farm Boy",
+  "address": "417 King Street North, Waterloo",
+  "proof": "proofs/raw-shrimp-340-g-bag.jpg"
+ },
+ {
+  "name": "Boneless skinless chicken breasts",
+  "price": "$6.00/lb",
+  "store": "Food Basics",
+  "address": "851 Fischer-Hallman Rd, Kitchener",
+  "proof": "proofs/boneless-skinless-chicken-breasts.jpg"
+ },
+ {
+  "name": "Pork tenderloin (frozen cryovac)",
+  "price": "$2.99/lb",
+  "store": "FreshCo",
+  "address": "425 University Ave. E, Waterloo",
+  "proof": "proofs/pork-tenderloin-frozen-cryovac.jpg"
+ },
+ {
+  "name": "Avocados, pkg of 5",
+  "price": "$2.00",
+  "store": "Food Basics",
+  "address": "851 Fischer-Hallman Rd, Kitchener",
+  "proof": "proofs/avocados-pkg-of-5.jpg"
+ },
+ {
+  "name": "Limes, 1 lb bag",
+  "price": "$3.00",
+  "store": "Food Basics",
+  "address": "851 Fischer-Hallman Rd, Kitchener",
+  "proof": "proofs/limes-1-lb-bag.jpg"
+ },
+ {
+  "name": "Lemons, 2 lb bag",
+  "price": "$2.00",
+  "store": "Food Basics",
+  "address": "851 Fischer-Hallman Rd, Kitchener",
+  "proof": "proofs/lemons-2-lb-bag.jpg"
+ },
+ {
+  "name": "Spinach bunch",
+  "price": "$1.99 ea",
+  "store": "Food Basics",
+  "address": "851 Fischer-Hallman Rd, Kitchener",
+  "proof": "proofs/spinach-bunch.jpg"
+ },
+ {
+  "name": "Cauliflower",
+  "price": "$3.00",
+  "store": "Food Basics",
+  "address": "851 Fischer-Hallman Rd, Kitchener",
+  "proof": "proofs/cauliflower.jpg"
+ },
+ {
+  "name": "Coconut milk, 400 mL",
+  "price": "$2.48",
+  "store": "Sobeys",
+  "address": "640 Parkside Drive, Waterloo",
+  "proof": "proofs/coconut-milk-400-ml.jpg"
+ }
+]

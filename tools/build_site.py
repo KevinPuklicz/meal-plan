@@ -120,11 +120,10 @@ nav a{white-space:nowrap;padding:4px 10px;border:1px solid var(--line);border-ra
     open(os.path.join(ROOT, "index.html"), "w").write(root_page)
     open(os.path.join(ROOT, ".nojekyll"), "w").write("")
 
-    print(json.dumps({
-        "week": week, "total": round(total, 2),
-        "matches": [{"name": g["name"], "price": g["price"], "store": g["_store"],
-                     "address": g["_store_addr"]} for g in matches],
-    }, indent=1))
+    summary = [{"name": g["name"], "price": g["price"], "store": g["_store"],
+                "address": g["_store_addr"], "proof": g["_proof"]} for g in matches]
+    json.dump(summary, open(os.path.join(out_dir, "matches.json"), "w"), indent=1)
+    print(json.dumps({"week": week, "total": round(total, 2), "matches": summary}, indent=1))
 
 
 if __name__ == "__main__":
