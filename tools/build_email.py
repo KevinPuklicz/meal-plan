@@ -11,9 +11,10 @@ import json
 import os
 import re
 import sys
-from datetime import date
+from urllib.parse import quote
 
 SITE = "https://kevinpuklicz.github.io/meal-plan"
+FAV_TO = "kevinpuklicz4@gmail.com"
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 e = html.escape
 GREEN, MUTED, LINE, TAGINK = "#1d5b3a", "#5d6b63", "#e5e9e6", "#7a4a00"
@@ -21,6 +22,14 @@ GREEN, MUTED, LINE, TAGINK = "#1d5b3a", "#5d6b63", "#e5e9e6", "#7a4a00"
 
 def slug(s):
     return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")[:40]
+
+
+def load_favs():
+    p = os.path.join(ROOT, "tools", "favorites.json")
+    try:
+        return {f["url"] for f in json.load(open(p))}
+    except Exception:
+        return set()
 
 
 def main(plan_path):
@@ -44,9 +53,18 @@ def main(plan_path):
     o.append(f"<p style='margin:0 0 18px;font-size:13px;color:{MUTED}'>Or open: <a href='{page}' style='color:{GREEN}'>{page}</a></p>")
 
     o.append(f"<h2 style='font-size:18px;color:{GREEN};margin:20px 0 8px'>Dinners</h2>")
+    favs = load_favs()
     for d in plan["dinners"]:
+        if d["url"] in favs:
+            star = f"<span style='color:#b8860b;font-size:13px'>★ Favorite</span>"
+        else:
+            mt = (f"mailto:{FAV_TO}?subject=" + quote(f"Favorite: {d['name']}") +
+                  "&body=" + quote(f"{d['url']}\n\n(Just hit send. Next week's plan will add this to your favorites.)"))
+            star = f"<a href='{e(mt)}' style='color:#b8860b;font-size:13px;text-decoration:none'>☆ Favorite</a>"
         o.append(f"<p style='margin:0 0 10px'><b>{e(d['day'])}</b> — <a href='{e(d['url'])}' style='color:{GREEN};font-weight:bold'>{e(d['name'])}</a> "
-                 f"<span style='color:{MUTED}'>({e(d['site'])}, {e(d['time'])})</span><br><span style='color:{MUTED};font-size:14px'>{e(d['note'])}</span></p>")
+                 f"<span style='color:{MUTED}'>({e(d['site'])}, {e(d['time'])})</span> · {star}<br><span style='color:{MUTED};font-size:14px'>{e(d['note'])}</span></p>")
+    o.append(f"<p style='margin:4px 0 0;font-size:12px;color:{MUTED}'>Tap ☆ Favorite on any dinner you loved and hit send — favorites come back every few weeks. "
+             f"<a href='{SITE}/favorites.html' style='color:{GREEN}'>See all favorites</a></p>")
 
     o.append(f"<h2 style='font-size:18px;color:{GREEN};margin:20px 0 8px'>Price matches ({len(matches)})</h2>"
              f"<table style='width:100%;border-collapse:collapse;font-size:14px'>")
