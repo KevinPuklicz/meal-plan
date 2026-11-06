@@ -1,0 +1,37 @@
+[
+ {
+  "name": "Bone-in pork combination chops (pick 2 thick centre-cut)",
+  "price": "$2.22/lb",
+  "store": "Food Basics",
+  "address": "851 Fischer-Hallman Rd, Kitchener",
+  "proof": "proofs/bone-in-pork-combination-chops-pick-2-th.jpg"
+ },
+ {
+  "name": "Fresh Atlantic salmon fillets",
+  "price": "$9.98/lb",
+  "store": "Food Basics",
+  "address": "851 Fischer-Hallman Rd, Kitchener",
+  "proof": "proofs/fresh-atlantic-salmon-fillets.jpg"
+ },
+ {
+  "name": "Extra lean ground chicken, 454 g",
+  "price": "$6.99",
+  "store": "Food Basics",
+  "address": "851 Fischer-Hallman Rd, Kitchener",
+  "proof": "proofs/extra-lean-ground-chicken-454-g.jpg"
+ },
+ {
+  "name": "Sweet potatoes",
+  "price": "$0.94/lb",
+  "store": "Walmart",
+  "address": "70 Bridgeport Road East, Waterloo",
+  "proof": "proofs/sweet-potatoes.jpg"
+ },
+ {
+  "name": "Broccoli crowns",
+  "price": "$1.44 ea",
+  "store": "Food Basics",
+  "address": "851 Fischer-Hallman Rd, Kitchener",
+  "proof": "proofs/broccoli-crowns.jpg"
+ }
+]

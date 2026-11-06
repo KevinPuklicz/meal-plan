@@ -1,0 +1,282 @@
+{
+ "week_of": "2026-11-08",
+ "flyer_dates": "Nov 5 – Nov 11",
+ "postal_code": "N2L3G1",
+ "shop_at": {
+  "name": "No Frills (Paul & Mallory's)",
+  "address": "24 Forwell Creek Rd, Waterloo"
+ },
+ "dinners": [
+  {
+   "day": "Sun Nov 8",
+   "name": "Pan-seared pork chops with herb butter",
+   "time": "25 min",
+   "site": "Spend With Pennies",
+   "url": "https://www.spendwithpennies.com/pan-seared-pork-chops/",
+   "note": "GF as written (recipe serves 2). Roast sweet potato wedges and 1 broccoli crown at 425°F while the chops cook."
+  },
+  {
+   "day": "Mon Nov 9",
+   "name": "Korean beef bowls",
+   "time": "15 min",
+   "site": "Damn Delicious",
+   "url": "https://damndelicious.net/2013/07/07/korean-beef-bowl/",
+   "note": "Use GF tamari instead of soy sauce. One 450 g pack of beef makes the full recipe (2 dinners + lunch leftovers). Serve over rice with the second broccoli crown."
+  },
+  {
+   "day": "Tue Nov 10",
+   "name": "Sweet and spicy glazed salmon",
+   "time": "15 min",
+   "site": "Skinnytaste",
+   "url": "https://www.skinnytaste.com/sweet-and-spicy-glazed-salmon/",
+   "note": "Tagged GF; check the sweet chili sauce and sriracha labels. Use ~3/4 lb salmon for 2. Serve with rice and garlicky sautéed bok choy."
+  },
+  {
+   "day": "Wed Nov 11",
+   "name": "Thai chicken lettuce cups",
+   "time": "45 min",
+   "site": "Once Upon a Chef",
+   "url": "https://www.onceuponachef.com/recipes/thai-minced-chicken-lettuce-cups.html",
+   "note": "Halve the recipe (454 g ground chicken). Use GF tamari for the soy sauce (the recipe's own GF note) and check the fish sauce label. Serve with rice. Thaw the fish tonight."
+  },
+  {
+   "day": "Thu Nov 12",
+   "name": "Fish tacos with avocado sweet corn slaw",
+   "time": "40 min",
+   "site": "Iowa Girl Eats",
+   "url": "https://iowagirleats.com/fish-tacos-with-avocado-sweet-corn-slaw/",
+   "note": "Halve the recipe. Use the 400 g white fish fillets instead of mahi mahi, green cabbage instead of purple, frozen corn, and GF-labelled corn tortillas. Check the garlic salt, chili powder and mayo labels."
+  },
+  {
+   "day": "Fri Nov 13",
+   "name": "Mushroom & spinach pasta with ricotta",
+   "time": "30 min",
+   "site": "Budget Bytes",
+   "url": "https://www.budgetbytes.com/mushroom-and-spinach-pasta-with-ricotta/",
+   "note": "Use Rizopia GF rice pasta instead of bowtie pasta and save some pasta water. Full recipe uses both mushroom packs; use ~1/2 cup ricotta."
+  }
+ ],
+ "groceries": [
+  {
+   "section": "Proteins",
+   "name": "Bone-in pork combination chops (pick 2 thick centre-cut)",
+   "qty": "~1.5 lb",
+   "price": "$2.22/lb",
+   "est": 3.33,
+   "match": {
+    "flyer_id": 8215123,
+    "item_id": 1051568499
+   }
+  },
+  {
+   "section": "Proteins",
+   "name": "Lean ground beef, 2x450 g",
+   "qty": "1 pkg",
+   "price": "$8.88",
+   "est": 8.88,
+   "note": "Use one 450 g pack Monday; freeze the other."
+  },
+  {
+   "section": "Proteins",
+   "name": "Fresh Atlantic salmon fillets",
+   "qty": "~0.75 lb",
+   "price": "$9.98/lb",
+   "est": 7.49,
+   "note": "Ad is a family pack; if they insist on the pack size, freeze the extra.",
+   "match": {
+    "flyer_id": 8215123,
+    "item_id": 1051568525
+   }
+  },
+  {
+   "section": "Proteins",
+   "name": "Extra lean ground chicken, 454 g",
+   "qty": "1 pkg",
+   "price": "$6.99",
+   "est": 6.99,
+   "note": "Ad is Prime (Maple Leaf) brand; match depends on No Frills carrying it. Otherwise any 454 g ground chicken.",
+   "match": {
+    "flyer_id": 8215123,
+    "item_id": 1051569423
+   }
+  },
+  {
+   "section": "Proteins",
+   "name": "SeaQuest fish fillets, 400 g (frozen)",
+   "qty": "1 bag",
+   "price": "$7.50",
+   "est": 7.5,
+   "note": "Pick a plain (unbreaded) white fish like basa, haddock or cod."
+  },
+  {
+   "section": "Proteins",
+   "name": "Whole milk ricotta, 475 g",
+   "qty": "1 tub",
+   "price": "$4.49",
+   "est": 4.49
+  },
+  {
+   "section": "Produce",
+   "name": "Sweet potatoes",
+   "qty": "~1.5 lb",
+   "price": "$0.94/lb",
+   "est": 1.41,
+   "match": {
+    "flyer_id": 8215601,
+    "item_id": 1051594351
+   }
+  },
+  {
+   "section": "Produce",
+   "name": "Broccoli crowns",
+   "qty": "2",
+   "price": "$1.44 ea",
+   "est": 2.88,
+   "match": {
+    "flyer_id": 8215123,
+    "item_id": 1051568506
+   }
+  },
+  {
+   "section": "Produce",
+   "name": "Baby bok choy",
+   "qty": "~1 lb",
+   "price": "$1.99/lb",
+   "est": 1.99
+  },
+  {
+   "section": "Produce",
+   "name": "Butter lettuce",
+   "qty": "1 head",
+   "price": "$2.99",
+   "est": 2.99
+  },
+  {
+   "section": "Produce",
+   "name": "Avocados, pkg of 5",
+   "qty": "1",
+   "price": "$1.98",
+   "est": 1.98
+  },
+  {
+   "section": "Produce",
+   "name": "Cocktail tomatoes, 454 g",
+   "qty": "1",
+   "price": "$1.99",
+   "est": 1.99
+  },
+  {
+   "section": "Produce",
+   "name": "Green cabbage (small)",
+   "qty": "~2 lb",
+   "price": "$0.99/lb",
+   "est": 1.98
+  },
+  {
+   "section": "Produce",
+   "name": "PC white or cremini mushrooms, 227 g",
+   "qty": "2",
+   "price": "$2.49 ea",
+   "est": 4.98
+  },
+  {
+   "section": "Produce",
+   "name": "Baby spinach, 142 g",
+   "qty": "1",
+   "price": "$2.99",
+   "est": 2.99
+  },
+  {
+   "section": "Produce",
+   "name": "Red onion",
+   "qty": "1",
+   "price": "~$0.80",
+   "est": 0.8
+  },
+  {
+   "section": "Produce",
+   "name": "Limes",
+   "qty": "3",
+   "price": "~$0.50 ea",
+   "est": 1.5
+  },
+  {
+   "section": "Produce",
+   "name": "Lemons",
+   "qty": "2",
+   "price": "~$0.75 ea",
+   "est": 1.5
+  },
+  {
+   "section": "Produce",
+   "name": "Cilantro",
+   "qty": "1 bunch",
+   "price": "$1.29",
+   "est": 1.29
+  },
+  {
+   "section": "Produce",
+   "name": "Fresh mint",
+   "qty": "1 pkg",
+   "price": "$2.49",
+   "est": 2.49
+  },
+  {
+   "section": "Produce",
+   "name": "Green onions",
+   "qty": "1 bunch",
+   "price": "$1.29",
+   "est": 1.29
+  },
+  {
+   "section": "Pantry",
+   "name": "Rizopia brown rice pasta, 340/454 g",
+   "qty": "1 bag",
+   "price": "$2.49",
+   "est": 2.49
+  },
+  {
+   "section": "Pantry",
+   "name": "Corn tortillas (labelled gluten-free)",
+   "qty": "1 pkg",
+   "price": "$3.99",
+   "est": 3.99
+  },
+  {
+   "section": "Pantry",
+   "name": "Frozen corn, 750 g",
+   "qty": "1 bag",
+   "price": "$2.49",
+   "est": 2.49
+  },
+  {
+   "section": "Pantry",
+   "name": "Sweet red chili sauce",
+   "qty": "1 bottle",
+   "price": "$2.99",
+   "est": 2.99,
+   "note": "Check the label for GF (e.g., Thai Kitchen is GF)."
+  }
+ ],
+ "pantry": [
+  "Rice",
+  "GF tamari",
+  "Toasted sesame oil",
+  "Brown sugar",
+  "Garlic",
+  "Fresh ginger",
+  "Crushed red pepper flakes",
+  "Sesame seeds",
+  "Fish sauce (check GF)",
+  "Sriracha (check GF)",
+  "Butter",
+  "Dried thyme & rosemary",
+  "Chili powder, cumin, smoked paprika (check GF)",
+  "Garlic salt (check GF)",
+  "Mayonnaise (check GF)",
+  "Milk",
+  "Peanuts or cashews",
+  "Vegetable oil",
+  "Olive oil"
+ ]
+}
