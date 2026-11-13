@@ -1,0 +1,65 @@
+[
+ {
+  "name": "Fresh pork tenderloin (family-size cryovac)",
+  "price": "$4.44/lb",
+  "store": "Sobeys",
+  "address": "640 Parkside Drive, Waterloo",
+  "proof": "proofs/fresh-pork-tenderloin-family-size-cryova.jpg"
+ },
+ {
+  "name": "Raw shrimp, 31\u201340/lb, 340 g (frozen)",
+  "price": "$3.99",
+  "store": "Farm Boy",
+  "address": "417 King Street North, Waterloo",
+  "proof": "proofs/raw-shrimp-31-40-lb-340-g-frozen.jpg"
+ },
+ {
+  "name": "Boneless skinless chicken breasts",
+  "price": "$4.88/lb",
+  "store": "Zehrs",
+  "address": "555 Davenport Road, Waterloo",
+  "proof": "proofs/boneless-skinless-chicken-breasts.jpg"
+ },
+ {
+  "name": "Sweet potatoes",
+  "price": "$0.88/lb",
+  "store": "Food Basics",
+  "address": "851 Fischer-Hallman Rd, Kitchener",
+  "proof": "proofs/sweet-potatoes.jpg"
+ },
+ {
+  "name": "Broccoli bunches",
+  "price": "$1.99 ea",
+  "store": "Farm Boy",
+  "address": "417 King Street North, Waterloo",
+  "proof": "proofs/broccoli-bunches.jpg"
+ },
+ {
+  "name": "Yellow onions, 3 lb bag",
+  "price": "$1.75",
+  "store": "Farm Boy",
+  "address": "417 King Street North, Waterloo",
+  "proof": "proofs/yellow-onions-3-lb-bag.jpg"
+ },
+ {
+  "name": "Sweet cherry tomatoes, 283 g",
+  "price": "$2.99",
+  "store": "Food Basics",
+  "address": "851 Fischer-Hallman Rd, Kitchener",
+  "proof": "proofs/sweet-cherry-tomatoes-283-g.jpg"
+ },
+ {
+  "name": "Avocados, pkg of 5",
+  "price": "$2.00",
+  "store": "FreshCo",
+  "address": "425 University Ave. E, Waterloo",
+  "proof": "proofs/avocados-pkg-of-5.jpg"
+ },
+ {
+  "name": "Large lemons",
+  "price": "$0.89 ea",
+  "store": "Sobeys",
+  "address": "640 Parkside Drive, Waterloo",
+  "proof": "proofs/large-lemons.jpg"
+ }
+]

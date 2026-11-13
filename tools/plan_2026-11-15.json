@@ -1,0 +1,295 @@
+{
+ "week_of": "2026-11-15",
+ "flyer_dates": "Nov 12 – Nov 18",
+ "postal_code": "N2L3G1",
+ "shop_at": {
+  "name": "No Frills (Paul & Mallory's)",
+  "address": "24 Forwell Creek Rd, Waterloo"
+ },
+ "dinners": [
+  {
+   "day": "Sun Nov 15",
+   "name": "Spice-rubbed baked pork tenderloin",
+   "time": "45 min",
+   "site": "Well Plated",
+   "url": "https://www.wellplated.com/baked-pork-tenderloin/",
+   "note": "GF as written (recipe is 1 lb tenderloin, ~4 servings — leftovers for lunch). Check the chili and mustard powder labels. Roast sweet potato wedges and 1 broccoli bunch at 425°F alongside."
+  },
+  {
+   "day": "Mon Nov 16",
+   "name": "Honey garlic shrimp",
+   "time": "25 min",
+   "site": "Jessica Gavin",
+   "url": "https://www.jessicagavin.com/honey-garlic-shrimp/",
+   "note": "Use GF tamari instead of soy sauce (the recipe's own GF note). Use the 340 g bag (~3/4 of the recipe). Serve over rice with steamed broccoli."
+  },
+  {
+   "day": "Tue Nov 17",
+   "name": "Keema curry with peas",
+   "time": "35 min",
+   "site": "Feelgood Foodie",
+   "url": "https://feelgoodfoodie.net/recipe/keema-curry-ground-beef-and-peas/",
+   "note": "Use the 454 g ground chicken instead of ground beef. Serve with rice, not naan. Check the curry powder label. Full recipe = dinner + 2 lunches."
+  },
+  {
+   "day": "Wed Nov 18",
+   "name": "Spicy peanut tofu bowls",
+   "time": "40 min",
+   "site": "Pinch of Yum",
+   "url": "https://pinchofyum.com/spicy-peanut-tofu-bowls",
+   "note": "Use GF tamari instead of soy sauce and check the sambal label. Halve the recipe: 1 block tofu, 1 broccoli bunch, 1 red pepper, 3/4 cup rice."
+  },
+  {
+   "day": "Thu Nov 19",
+   "name": "Sheet pan chicken fajitas",
+   "time": "35 min",
+   "site": "Laughing Spatula",
+   "url": "https://laughingspatula.com/sheet-pan-fajitas/",
+   "note": "GF as written; serve in GF-labelled corn tortillas with avocado, lime and cilantro. Check the chili powder label. 1 lb chicken makes 2 dinners + leftovers. Thaw the fish tonight."
+  },
+  {
+   "day": "Fri Nov 20",
+   "name": "Greek baked cod",
+   "time": "40 min",
+   "site": "Downshiftology",
+   "url": "https://downshiftology.com/recipes/greek-baked-cod/",
+   "note": "Naturally GF. Halve the recipe, using the 400 g bag of white fish fillets. Check the marinated artichoke label. Serve with the leftover rice or a green salad."
+  }
+ ],
+ "groceries": [
+  {
+   "section": "Proteins",
+   "name": "Fresh pork tenderloin (family-size cryovac)",
+   "qty": "~2 lb",
+   "price": "$4.44/lb",
+   "est": 8.88,
+   "note": "Use one tenderloin Sunday; freeze the other. Plain (unmarinated) only.",
+   "match": {
+    "flyer_id": 8224823,
+    "item_id": 1053402488
+   }
+  },
+  {
+   "section": "Proteins",
+   "name": "Raw shrimp, 31–40/lb, 340 g (frozen)",
+   "qty": "1 bag",
+   "price": "$3.99",
+   "est": 3.99,
+   "note": "Ad is Farm Boy™ brand; match depends on No Frills carrying it. Otherwise SeaQuest raw shrimp 300 g is $6.00 at No Frills.",
+   "match": {
+    "flyer_id": 8223075,
+    "item_id": 1053064953
+   }
+  },
+  {
+   "section": "Proteins",
+   "name": "Ground chicken, 454 g",
+   "qty": "1 pkg",
+   "price": "$3.50",
+   "est": 3.5
+  },
+  {
+   "section": "Proteins",
+   "name": "Rooster extra-firm tofu, 454 g",
+   "qty": "1 block",
+   "price": "$2.00",
+   "est": 2.0
+  },
+  {
+   "section": "Proteins",
+   "name": "Boneless skinless chicken breasts",
+   "qty": "~1 lb",
+   "price": "$4.88/lb",
+   "est": 4.88,
+   "note": "Ad is a family size pack; freeze any extra.",
+   "match": {
+    "flyer_id": 8222385,
+    "item_id": 1052871595
+   }
+  },
+  {
+   "section": "Proteins",
+   "name": "SeaQuest fish fillets, 400 g (frozen)",
+   "qty": "1 bag",
+   "price": "$7.50",
+   "est": 7.5,
+   "note": "Pick plain (unbreaded) cod or haddock. Thaw Thursday night."
+  },
+  {
+   "section": "Proteins",
+   "name": "Feta, crumbled or block",
+   "qty": "1 small pkg",
+   "price": "~$5.00",
+   "est": 5.0,
+   "note": "For the cod; use ~2 Tbsp."
+  },
+  {
+   "section": "Produce",
+   "name": "Sweet potatoes",
+   "qty": "~1.5 lb",
+   "price": "$0.88/lb",
+   "est": 1.32,
+   "match": {
+    "flyer_id": 8222560,
+    "item_id": 1052969286
+   }
+  },
+  {
+   "section": "Produce",
+   "name": "Broccoli bunches",
+   "qty": "3",
+   "price": "$1.99 ea",
+   "est": 5.97,
+   "note": "Sunday, Monday and Wednesday. No Frills crowns are $2.49 ea.",
+   "match": {
+    "flyer_id": 8223075,
+    "item_id": 1053064954
+   }
+  },
+  {
+   "section": "Produce",
+   "name": "Sweet peppers, pkg of 4",
+   "qty": "1",
+   "price": "$2.99",
+   "est": 2.99,
+   "note": "2 for the fajitas, 1 red for the tofu bowls, 1 spare."
+  },
+  {
+   "section": "Produce",
+   "name": "Yellow onions, 3 lb bag",
+   "qty": "1",
+   "price": "$1.75",
+   "est": 1.75,
+   "match": {
+    "flyer_id": 8223075,
+    "item_id": 1053064974
+   }
+  },
+  {
+   "section": "Produce",
+   "name": "Red onion",
+   "qty": "1",
+   "price": "~$0.80",
+   "est": 0.8
+  },
+  {
+   "section": "Produce",
+   "name": "Sweet cherry tomatoes, 283 g",
+   "qty": "1",
+   "price": "$2.99",
+   "est": 2.99,
+   "match": {
+    "flyer_id": 8222560,
+    "item_id": 1052969580
+   }
+  },
+  {
+   "section": "Produce",
+   "name": "Avocados, pkg of 5",
+   "qty": "1",
+   "price": "$2.00",
+   "est": 2.0,
+   "match": {
+    "flyer_id": 8222380,
+    "item_id": 1052956574
+   }
+  },
+  {
+   "section": "Produce",
+   "name": "Large lemons",
+   "qty": "2",
+   "price": "$0.89 ea",
+   "est": 1.78,
+   "match": {
+    "flyer_id": 8224823,
+    "item_id": 1053402745
+   }
+  },
+  {
+   "section": "Produce",
+   "name": "Limes",
+   "qty": "2",
+   "price": "~$0.50 ea",
+   "est": 1.0
+  },
+  {
+   "section": "Produce",
+   "name": "Green onions",
+   "qty": "1 bunch",
+   "price": "$1.29",
+   "est": 1.29
+  },
+  {
+   "section": "Produce",
+   "name": "Cilantro",
+   "qty": "1 bunch",
+   "price": "$1.29",
+   "est": 1.29
+  },
+  {
+   "section": "Produce",
+   "name": "Fresh parsley",
+   "qty": "1 bunch",
+   "price": "$1.29",
+   "est": 1.29
+  },
+  {
+   "section": "Pantry",
+   "name": "Frozen peas, 750 g",
+   "qty": "1 bag",
+   "price": "$2.49",
+   "est": 2.49
+  },
+  {
+   "section": "Pantry",
+   "name": "Corn tortillas (labelled gluten-free)",
+   "qty": "1 pkg",
+   "price": "$3.99",
+   "est": 3.99
+  },
+  {
+   "section": "Pantry",
+   "name": "Kalamata olives, pitted",
+   "qty": "1 jar",
+   "price": "$3.99",
+   "est": 3.99
+  },
+  {
+   "section": "Pantry",
+   "name": "Marinated artichoke hearts, 170–398 ml",
+   "qty": "1 jar",
+   "price": "$3.49",
+   "est": 3.49,
+   "note": "Check the label for GF."
+  },
+  {
+   "section": "Pantry",
+   "name": "Sambal oelek",
+   "qty": "1 jar",
+   "price": "$3.49",
+   "est": 3.49,
+   "note": "Check the label for GF (Huy Fong is GF)."
+  }
+ ],
+ "pantry": [
+  "Rice",
+  "GF tamari",
+  "Toasted sesame oil",
+  "Rice vinegar",
+  "Natural peanut butter",
+  "Honey",
+  "Brown sugar",
+  "Tomato paste",
+  "Garlic",
+  "Fresh ginger",
+  "Cornstarch",
+  "Paprika, cumin, coriander, turmeric",
+  "Curry powder (check GF)",
+  "Chili powder & chipotle powder (check GF)",
+  "Dry mustard powder (check GF)",
+  "Dried oregano & thyme",
+  "Sesame seeds",
+  "Olive oil",
+  "Canola or avocado oil"
+ ]
+}
