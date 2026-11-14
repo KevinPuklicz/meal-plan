@@ -9,11 +9,11 @@
  "dinners": [
   {
    "day": "Sun Nov 15",
-   "name": "Spice-rubbed baked pork tenderloin",
-   "time": "45 min",
-   "site": "Well Plated",
-   "url": "https://www.wellplated.com/baked-pork-tenderloin/",
-   "note": "GF as written (recipe is 1 lb tenderloin, ~4 servings — leftovers for lunch). Check the chili and mustard powder labels. Roast sweet potato wedges and 1 broccoli bunch at 425°F alongside."
+   "name": "Southwest ground beef & sweet potato skillet",
+   "time": "30 min",
+   "site": "Recipe Runner",
+   "url": "https://reciperunner.com/southwest-ground-beef-and-sweet-potato-skillet/",
+   "note": "GF as written (no broth or seasoning packets). Check the chili powder, canned green chile and shredded cheddar labels. Recipe serves 4: dinner + 2 lunches."
   },
   {
    "day": "Mon Nov 16",
@@ -59,14 +59,14 @@
  "groceries": [
   {
    "section": "Proteins",
-   "name": "Fresh pork tenderloin (family-size cryovac)",
-   "qty": "~2 lb",
-   "price": "$4.44/lb",
-   "est": 8.88,
-   "note": "Use one tenderloin Sunday; freeze the other. Plain (unmarinated) only.",
+   "name": "Lean ground beef, 450 g",
+   "qty": "1 pkg",
+   "price": "$5.99",
+   "est": 5.99,
+   "note": "Ad is Diamond Valley grass-fed (Farm Boy); match depends on No Frills carrying a comparable lean ground beef. Otherwise buy No Frills lean ground beef.",
    "match": {
-    "flyer_id": 8224823,
-    "item_id": 1053402488
+    "flyer_id": 8223075,
+    "item_id": 1053064956
    }
   },
   {
@@ -124,23 +124,44 @@
    "note": "For the cod; use ~2 Tbsp."
   },
   {
+   "section": "Proteins",
+   "name": "Large white eggs, 18 pk (Burnbrae or Gray Ridge)",
+   "qty": "1",
+   "price": "$4.44",
+   "est": 4.44,
+   "note": "Weekly staple — breakfast hash.",
+   "match": {
+    "flyer_id": 8224823,
+    "item_id": 1053402499
+   }
+  },
+  {
+   "section": "Proteins",
+   "name": "Shredded cheddar, small bag",
+   "qty": "1",
+   "price": "~$4.99",
+   "est": 4.99,
+   "note": "Sunday skillet; check label (anti-caking agent) for GF."
+  },
+  {
    "section": "Produce",
    "name": "Sweet potatoes",
-   "qty": "~1.5 lb",
+   "qty": "~1 lb",
    "price": "$0.88/lb",
-   "est": 1.32,
+   "est": 0.88,
    "match": {
     "flyer_id": 8222560,
     "item_id": 1052969286
-   }
+   },
+   "note": "For Sunday’s skillet (~2 cups diced)."
   },
   {
    "section": "Produce",
    "name": "Broccoli bunches",
-   "qty": "3",
+   "qty": "2",
    "price": "$1.99 ea",
-   "est": 5.97,
-   "note": "Sunday, Monday and Wednesday. No Frills crowns are $2.49 ea.",
+   "est": 3.98,
+   "note": "Monday and Wednesday. No Frills crowns are $2.49 ea.",
    "match": {
     "flyer_id": 8223075,
     "item_id": 1053064954
@@ -149,10 +170,10 @@
   {
    "section": "Produce",
    "name": "Sweet peppers, pkg of 4",
-   "qty": "1",
+   "qty": "2",
    "price": "$2.99",
-   "est": 2.99,
-   "note": "2 for the fajitas, 1 red for the tofu bowls, 1 spare."
+   "est": 5.98,
+   "note": "2 for the fajitas, 1 red for the tofu bowls, 2 for breakfast hash, 3 spare."
   },
   {
    "section": "Produce",
@@ -163,7 +184,8 @@
    "match": {
     "flyer_id": 8223075,
     "item_id": 1053064974
-   }
+   },
+   "note": "Covers dinners + breakfast hash."
   },
   {
    "section": "Produce",
@@ -269,6 +291,45 @@
    "price": "$3.49",
    "est": 3.49,
    "note": "Check the label for GF (Huy Fong is GF)."
+  },
+  {
+   "section": "Pantry",
+   "name": "Almond Breeze unsweetened almond milk, 946 ml",
+   "qty": "2",
+   "price": "$2.50 ea",
+   "est": 5.0,
+   "note": "Weekly staple (2 × 946 ml ≈ 1.89 L).",
+   "match": {
+    "flyer_id": 8222385,
+    "item_id": 1052874320
+   }
+  },
+  {
+   "section": "Pantry",
+   "name": "McCain diced hash browns, 800 g (frozen)",
+   "qty": "1 bag",
+   "price": "$2.00",
+   "est": 2.0,
+   "note": "Weekly staple — breakfast hash; check the label is GF / no wheat coating.",
+   "match": {
+    "flyer_id": 8222380,
+    "item_id": 1052956570
+   }
+  },
+  {
+   "section": "Pantry",
+   "name": "Fire-roasted diced tomatoes, 398 ml can",
+   "qty": "1",
+   "price": "~$1.79",
+   "est": 1.79
+  },
+  {
+   "section": "Pantry",
+   "name": "Diced green chiles, 127 ml can",
+   "qty": "1",
+   "price": "~$1.99",
+   "est": 1.99,
+   "note": "Check label for GF."
   }
  ],
  "pantry": [
@@ -286,7 +347,6 @@
   "Paprika, cumin, coriander, turmeric",
   "Curry powder (check GF)",
   "Chili powder & chipotle powder (check GF)",
-  "Dry mustard powder (check GF)",
   "Dried oregano & thyme",
   "Sesame seeds",
   "Olive oil",

@@ -1,10 +1,10 @@
 [
  {
-  "name": "Fresh pork tenderloin (family-size cryovac)",
-  "price": "$4.44/lb",
-  "store": "Sobeys",
-  "address": "640 Parkside Drive, Waterloo",
-  "proof": "proofs/fresh-pork-tenderloin-family-size-cryova.jpg"
+  "name": "Lean ground beef, 450 g",
+  "price": "$5.99",
+  "store": "Farm Boy",
+  "address": "417 King Street North, Waterloo",
+  "proof": "proofs/lean-ground-beef-450-g.jpg"
  },
  {
   "name": "Raw shrimp, 31\u201340/lb, 340 g (frozen)",
@@ -19,6 +19,13 @@
   "store": "Zehrs",
   "address": "555 Davenport Road, Waterloo",
   "proof": "proofs/boneless-skinless-chicken-breasts.jpg"
+ },
+ {
+  "name": "Large white eggs, 18 pk (Burnbrae or Gray Ridge)",
+  "price": "$4.44",
+  "store": "Sobeys",
+  "address": "640 Parkside Drive, Waterloo",
+  "proof": "proofs/large-white-eggs-18-pk-burnbrae-or-gray-.jpg"
  },
  {
   "name": "Sweet potatoes",
@@ -61,5 +68,19 @@
   "store": "Sobeys",
   "address": "640 Parkside Drive, Waterloo",
   "proof": "proofs/large-lemons.jpg"
+ },
+ {
+  "name": "Almond Breeze unsweetened almond milk, 946 ml",
+  "price": "$2.50 ea",
+  "store": "Zehrs",
+  "address": "555 Davenport Road, Waterloo",
+  "proof": "proofs/almond-breeze-unsweetened-almond-milk-94.jpg"
+ },
+ {
+  "name": "McCain diced hash browns, 800 g (frozen)",
+  "price": "$2.00",
+  "store": "FreshCo",
+  "address": "425 University Ave. E, Waterloo",
+  "proof": "proofs/mccain-diced-hash-browns-800-g-frozen.jpg"
  }
 ]
