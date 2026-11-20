@@ -1,0 +1,352 @@
+{
+ "week_of": "2026-11-22",
+ "flyer_dates": "Nov 19 – Nov 25",
+ "postal_code": "N2L3G1",
+ "shop_at": {
+  "name": "No Frills (Paul & Mallory's)",
+  "address": "24 Forwell Creek Rd, Waterloo"
+ },
+ "dinners": [
+  {
+   "day": "Sun Nov 22",
+   "name": "Stuffed pepper skillet (unstuffed peppers)",
+   "time": "30 min",
+   "site": "Two Peas & Their Pod",
+   "url": "https://www.twopeasandtheirpod.com/?p=112343",
+   "note": "Use a GF-labelled beef broth and swap the Worcestershire for 2 tsp GF tamari (Canadian Lea & Perrins uses malt vinegar). Check the Italian seasoning and shredded cheese labels. Use 1 lb of the ground beef; full recipe = dinner + 2 lunches."
+  },
+  {
+   "day": "Mon Nov 23",
+   "name": "Chickpea & sweet potato curry",
+   "time": "35 min",
+   "site": "Kitchen Sanctuary",
+   "url": "https://www.kitchensanctuary.com/chickpea-and-sweet-potato-curry/",
+   "note": "Naturally GF and vegetarian; check the curry powder label. Halve it: 1 large sweet potato, 1/2 of the 796 ml chickpeas, 1 can tomatoes, 1 can coconut milk (keep the rest for leftovers/lunch). Serve over rice."
+  },
+  {
+   "day": "Tue Nov 24",
+   "name": "Coconut curry shrimp",
+   "time": "20 min",
+   "site": "The Almond Eater",
+   "url": "https://thealmondeater.com/coconut-curry-shrimp/",
+   "note": "Substitute GF tamari for the soy sauce (the recipe's own GF swap) and check the red curry paste label (Thai Kitchen is GF). Use the 300 g shrimp (~2/3 recipe) and 1/2 yellow onion instead of the shallot. Serve over rice with lime."
+  },
+  {
+   "day": "Wed Nov 25",
+   "name": "One-pan roasted chicken with fall vegetables",
+   "time": "40 min",
+   "site": "Damn Delicious",
+   "url": "https://damndelicious.net/2015/09/13/one-pan-roasted-chicken-with-fall-vegetables/",
+   "note": "GF as written (check the balsamic label). Halve it: 4 bone-in thighs, ~1/2 lb each squash, mini potatoes, carrots and Brussels sprouts. About 10 min prep + 25–30 min roast at 400°F + 2 min broil."
+  },
+  {
+   "day": "Thu Nov 26",
+   "name": "Beef & cabbage stir-fry",
+   "time": "25 min",
+   "site": "Skinnytaste",
+   "url": "https://www.skinnytaste.com/beef-and-cabbage-stir-fry/",
+   "note": "Substitute GF tamari for the soy and dark soy sauces, use GF hoisin/oyster sauce or replace both with 1 tsp honey + 1 extra tsp tamari, and use water instead of broth. Halve it (1/2 lb beef). Green cabbage works in place of napa. Serve over rice."
+  },
+  {
+   "day": "Fri Nov 27",
+   "name": "Maple mustard salmon",
+   "time": "30 min",
+   "site": "Primavera Kitchen",
+   "url": "https://www.primaverakitchen.com/maple-mustard-salmon/",
+   "note": "Naturally GF; check the Dijon label. Use 2 fillets (~3/4 lb) and halve the glaze; dried thyme is fine. Roast the rest of the mini potatoes and the broccoli alongside at 400°F."
+  }
+ ],
+ "groceries": [
+  {
+   "section": "Proteins",
+   "name": "Regular ground beef, family size",
+   "qty": "~1.5 lb",
+   "price": "$4.88/lb",
+   "est": 7.32,
+   "note": "Sunday skillet (1 lb) + Thursday stir-fry (1/2 lb). Regular, not lean: drain the fat. Freeze any extra.",
+   "match": {
+    "flyer_id": 8230473,
+    "item_id": 1054650465
+   }
+  },
+  {
+   "section": "Proteins",
+   "name": "Bone-in chicken thighs, family size",
+   "qty": "~2 lb",
+   "price": "$2.99/lb",
+   "est": 5.98,
+   "note": "Wednesday sheet pan (4 thighs). Ad is bone-in; freeze extras.",
+   "match": {
+    "flyer_id": 8228720,
+    "item_id": 1054418657
+   }
+  },
+  {
+   "section": "Proteins",
+   "name": "Marina del Ray wild Argentinian shrimp, 20–30/lb, 300 g (frozen)",
+   "qty": "1 bag",
+   "price": "$6.50",
+   "est": 6.5,
+   "note": "No Frills sale. Thaw Monday night."
+  },
+  {
+   "section": "Proteins",
+   "name": "Atlantic salmon fillet",
+   "qty": "~3/4 lb",
+   "price": "$9.99/lb",
+   "est": 7.49,
+   "note": "No Frills sale. Friday."
+  },
+  {
+   "section": "Proteins",
+   "name": "Shredded mozzarella/cheddar, ~320 g",
+   "qty": "1 bag",
+   "price": "~$5.99",
+   "est": 5.99,
+   "note": "Sunday skillet; check the label (anti-caking agent) for GF."
+  },
+  {
+   "section": "Proteins",
+   "name": "Large eggs, 18 pk",
+   "qty": "1",
+   "price": "$4.48",
+   "est": 4.48,
+   "note": "Weekly staple — breakfast hash. Ad is Food Basics' Selection brand; match depends on No Frills accepting it as comparable (otherwise No Frills 18 pk is $4.99 on sale).",
+   "match": {
+    "flyer_id": 8227897,
+    "item_id": 1054144281
+   }
+  },
+  {
+   "section": "Produce",
+   "name": "Sweet peppers, pkg of 4",
+   "qty": "2",
+   "price": "$3.99",
+   "est": 7.98,
+   "note": "2 for the skillet, 1 red for the shrimp curry, 3 spare + breakfast hash (2).",
+   "match": {
+    "flyer_id": 8227897,
+    "item_id": 1054144892
+   }
+  },
+  {
+   "section": "Produce",
+   "name": "Yellow onions, 3 lb bag",
+   "qty": "1",
+   "price": "$1.50",
+   "est": 1.5,
+   "note": "Skillet, both curries + breakfast hash.",
+   "match": {
+    "flyer_id": 8228720,
+    "item_id": 1054418412
+   }
+  },
+  {
+   "section": "Produce",
+   "name": "Carrots, 3 lb bag",
+   "qty": "1",
+   "price": "$1.50",
+   "est": 1.5,
+   "note": "Wednesday sheet pan + Thursday stir-fry.",
+   "match": {
+    "flyer_id": 8228720,
+    "item_id": 1054418412
+   }
+  },
+  {
+   "section": "Produce",
+   "name": "Sweet potatoes",
+   "qty": "~1 lb",
+   "price": "$0.99/lb",
+   "est": 0.99,
+   "note": "No Frills sale. Monday curry."
+  },
+  {
+   "section": "Produce",
+   "name": "Butternut squash",
+   "qty": "1 small (~2 lb)",
+   "price": "$0.99/lb",
+   "est": 1.98,
+   "note": "Wednesday sheet pan.",
+   "match": {
+    "flyer_id": 8230473,
+    "item_id": 1054650681
+   }
+  },
+  {
+   "section": "Produce",
+   "name": "Brussels sprouts",
+   "qty": "~3/4 lb",
+   "price": "$2.00/lb",
+   "est": 1.5,
+   "note": "Wednesday sheet pan.",
+   "match": {
+    "flyer_id": 8228720,
+    "item_id": 1054418343
+   }
+  },
+  {
+   "section": "Produce",
+   "name": "PC Little Gems mini potatoes, 680 g",
+   "qty": "1",
+   "price": "$3.00",
+   "est": 3.0,
+   "note": "Wednesday sheet pan + Friday salmon.",
+   "match": {
+    "flyer_id": 8228720,
+    "item_id": 1054419318
+   }
+  },
+  {
+   "section": "Produce",
+   "name": "Chopped spinach, 227–284 g",
+   "qty": "1",
+   "price": "$2.75",
+   "est": 2.75,
+   "note": "Monday curry. Ad is Harvest Fresh (Farm Boy); match depends on No Frills carrying it, otherwise buy No Frills baby spinach.",
+   "match": {
+    "flyer_id": 8229471,
+    "item_id": 1054440361
+   }
+  },
+  {
+   "section": "Produce",
+   "name": "Green cabbage",
+   "qty": "1 head",
+   "price": "$0.99",
+   "est": 0.99,
+   "note": "No Frills sale. Thursday stir-fry (use ~6 cups)."
+  },
+  {
+   "section": "Produce",
+   "name": "PC broccoli crowns, 227 g",
+   "qty": "1",
+   "price": "$2.49",
+   "est": 2.49,
+   "note": "No Frills sale. Friday side."
+  },
+  {
+   "section": "Produce",
+   "name": "Fresh ginger",
+   "qty": "small knob",
+   "price": "~$0.50",
+   "est": 0.5
+  },
+  {
+   "section": "Produce",
+   "name": "Limes",
+   "qty": "2",
+   "price": "~$0.50 ea",
+   "est": 1.0
+  },
+  {
+   "section": "Produce",
+   "name": "Lemon",
+   "qty": "1",
+   "price": "~$0.89",
+   "est": 0.89
+  },
+  {
+   "section": "Produce",
+   "name": "Cilantro",
+   "qty": "1 bunch",
+   "price": "$0.99",
+   "est": 0.99,
+   "note": "No Frills sale."
+  },
+  {
+   "section": "Produce",
+   "name": "Green onions",
+   "qty": "1 bunch",
+   "price": "~$1.29",
+   "est": 1.29
+  },
+  {
+   "section": "Pantry",
+   "name": "Chickpeas, 796 ml",
+   "qty": "1 can",
+   "price": "$1.49",
+   "est": 1.49,
+   "note": "No Frills sale (Tamam)."
+  },
+  {
+   "section": "Pantry",
+   "name": "Coconut milk, 400 ml",
+   "qty": "2 cans",
+   "price": "~$2.29 ea",
+   "est": 4.58,
+   "note": "Monday + Tuesday curries."
+  },
+  {
+   "section": "Pantry",
+   "name": "Diced tomatoes, 796 ml",
+   "qty": "1 can",
+   "price": "~$1.99",
+   "est": 1.99,
+   "note": "Monday curry."
+  },
+  {
+   "section": "Pantry",
+   "name": "Fire-roasted diced tomatoes, 398 ml",
+   "qty": "1 can",
+   "price": "~$1.79",
+   "est": 1.79,
+   "note": "Sunday skillet."
+  },
+  {
+   "section": "Pantry",
+   "name": "Beef broth, 900 ml (labelled gluten-free)",
+   "qty": "1 carton",
+   "price": "~$2.99",
+   "est": 2.99,
+   "note": "Sunday skillet; must say GF."
+  },
+  {
+   "section": "Pantry",
+   "name": "Red curry paste",
+   "qty": "1 jar",
+   "price": "~$3.99",
+   "est": 3.99,
+   "note": "Check the label for GF (Thai Kitchen is GF)."
+  },
+  {
+   "section": "Pantry",
+   "name": "Silk Almond unsweetened (zero sugar), 1.89 L",
+   "qty": "1",
+   "price": "$3.99",
+   "est": 3.99,
+   "note": "Weekly staple. Ad is Silk brand; match depends on No Frills carrying it.",
+   "match": {
+    "flyer_id": 8227897,
+    "item_id": 1054145761
+   }
+  },
+  {
+   "section": "Pantry",
+   "name": "Frozen diced hash brown potatoes, ~1 kg",
+   "qty": "1 bag",
+   "price": "~$3.99",
+   "est": 3.99,
+   "note": "Weekly staple — breakfast hash; check the label is GF / no wheat coating. Nothing comparable on sale this week."
+  }
+ ],
+ "pantry": [
+  "Rice",
+  "GF tamari",
+  "Toasted sesame oil",
+  "Cornstarch",
+  "Honey",
+  "Pure maple syrup",
+  "Dijon mustard (check GF)",
+  "Balsamic vinegar (check GF)",
+  "Tomato paste",
+  "Garlic",
+  "Curry powder (check GF)",
+  "Cumin, coriander, turmeric, paprika, cinnamon",
+  "Italian seasoning (check GF)",
+  "Dried oregano, thyme, basil, rosemary",
+  "Red pepper flakes",
+  "Olive oil",
+  "Vegetable oil"
+ ]
+}

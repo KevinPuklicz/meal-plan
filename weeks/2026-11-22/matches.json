@@ -1,0 +1,79 @@
+[
+ {
+  "name": "Regular ground beef, family size",
+  "price": "$4.88/lb",
+  "store": "Sobeys",
+  "address": "640 Parkside Drive, Waterloo",
+  "proof": "proofs/regular-ground-beef-family-size.jpg"
+ },
+ {
+  "name": "Bone-in chicken thighs, family size",
+  "price": "$2.99/lb",
+  "store": "Zehrs",
+  "address": "315 Lincoln Road, Waterloo",
+  "proof": "proofs/bone-in-chicken-thighs-family-size.jpg"
+ },
+ {
+  "name": "Large eggs, 18 pk",
+  "price": "$4.48",
+  "store": "Food Basics",
+  "address": "851 Fischer-Hallman Rd, Kitchener",
+  "proof": "proofs/large-eggs-18-pk.jpg"
+ },
+ {
+  "name": "Sweet peppers, pkg of 4",
+  "price": "$3.99",
+  "store": "Food Basics",
+  "address": "851 Fischer-Hallman Rd, Kitchener",
+  "proof": "proofs/sweet-peppers-pkg-of-4.jpg"
+ },
+ {
+  "name": "Yellow onions, 3 lb bag",
+  "price": "$1.50",
+  "store": "Zehrs",
+  "address": "315 Lincoln Road, Waterloo",
+  "proof": "proofs/yellow-onions-3-lb-bag.jpg"
+ },
+ {
+  "name": "Carrots, 3 lb bag",
+  "price": "$1.50",
+  "store": "Zehrs",
+  "address": "315 Lincoln Road, Waterloo",
+  "proof": "proofs/carrots-3-lb-bag.jpg"
+ },
+ {
+  "name": "Butternut squash",
+  "price": "$0.99/lb",
+  "store": "Sobeys",
+  "address": "640 Parkside Drive, Waterloo",
+  "proof": "proofs/butternut-squash.jpg"
+ },
+ {
+  "name": "Brussels sprouts",
+  "price": "$2.00/lb",
+  "store": "Zehrs",
+  "address": "315 Lincoln Road, Waterloo",
+  "proof": "proofs/brussels-sprouts.jpg"
+ },
+ {
+  "name": "PC Little Gems mini potatoes, 680 g",
+  "price": "$3.00",
+  "store": "Zehrs",
+  "address": "315 Lincoln Road, Waterloo",
+  "proof": "proofs/pc-little-gems-mini-potatoes-680-g.jpg"
+ },
+ {
+  "name": "Chopped spinach, 227\u2013284 g",
+  "price": "$2.75",
+  "store": "Farm Boy",
+  "address": "417 King Street North, Waterloo",
+  "proof": "proofs/chopped-spinach-227-284-g.jpg"
+ },
+ {
+  "name": "Silk Almond unsweetened (zero sugar), 1.89 L",
+  "price": "$3.99",
+  "store": "Food Basics",
+  "address": "851 Fischer-Hallman Rd, Kitchener",
+  "proof": "proofs/silk-almond-unsweetened-zero-sugar-1-89-.jpg"
+ }
+]
